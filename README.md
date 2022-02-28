@@ -58,4 +58,15 @@ Command to evaluate:
 
 `python evaluate.py`
 
+Testing with streamlit:
+
+`streamlit run app.py`
+
+## Online demo
+
+You can play around with the app deployed here. Have fun :) 
+
+
+
+
 
