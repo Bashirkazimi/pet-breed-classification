@@ -64,7 +64,7 @@ Testing with streamlit:
 
 ## Online demo
 
-You can play around with the app deployed here. Have fun :) 
+You can play around with the app deployed [here](https://share.streamlit.io/bashirkazimi/pet-breed-classification/app.py). Have fun :) 
 
 
 

@@ -7,7 +7,7 @@ class UI:
 
     ### About
 
-    This is a pet breed classification app. Given an image of a dog or a cat, the model predicts what breed it belongs to.
+    This is a pet breed classification app. Given an image of a dog or a cat, a trained AI model predicts what breed it belongs to.
 
     - [Repo](https://github.com/bashirkazimi/pet-breed-classification)
     - Dataset: [Oxford Cats and Dogs](https://www.kaggle.com/zippyz/cats-and-dogs-breeds-classification-oxford-dataset)
